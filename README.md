@@ -1,6 +1,6 @@
 # Olá, sou Matheus Carvalho!
 <p align="left">
-  Desenvolvedor em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
  Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento de Software.
 </p>
 
