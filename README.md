@@ -1,13 +1,13 @@
 # Olá, sou Matheus Carvalho!
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento de Software.
+  Desenvolvedor, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Node.js</strong>, <strong>React</strong> e <strong>TypeScript</strong>, com o objetivo concretizar projetos reais ao longo da minha jornada em Desenvolvimento de Software.
 </p>
 
 ## Sobre mim
 
 - 🖥️ Cursando ADS, Análise e Desenvolvimento de Software na UNOPAR
-- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento web
+- 📚 Estudando JavaScript, Node.js, React, Typescript, Tailwind e Nextjs
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 👤 Tenho um instagram profissional, me segue lá: [MthCode](https://www.instagram.com/mthcode?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr)
 
@@ -29,13 +29,13 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
 
 
