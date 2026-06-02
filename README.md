@@ -1,31 +1,12 @@
 # Matheus Carvalho
 
-Desenvolvedor em formação — React, Node.js e TypeScript.  
-Cursando ADS na UNOPAR. Aprendo construindo.
+Desenvolvedor FullStack com sistemas em produção — trabalhando com React, Next.js, TypeScript e Node.js, com deploy em VPS Linux usando Docker e Nginx. Atualmente desenvolvendo soluções integradas a ERPs corporativos na Novamix Food Service.
 
 ---
 
 ## 💻 Stack
 
 `HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `Express` `Tailwind` `Next.js` `Git`
-
----
-
-## 🚀 Projetos
-
-### [Nome do projeto](https://github.com/matheuscrvlh/...)
-Descrição breve: o que ele faz e qual problema resolve.
-
-### [Nome do projeto](https://github.com/matheuscrvlh/...)
-Descrição breve: o que ele faz e qual problema resolve.
-
----
-
-## 📚 Estudos
-
-Resumos, desafios e anotações de cursos em → [matheuscrvlh-study](https://github.com/matheuscrvlh-study)
-
----
 
 ## 📬 Contato
 
