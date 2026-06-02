@@ -1,8 +1,8 @@
 ## 👋 Olá! Sou Matheus Carvalho
 
-Desenvolvedor FullStack com sistemas em produção — trabalhando com **React, Next.js, TypeScript** e **Node.js**, com deploy em VPS Linux usando Docker e Nginx.
+Desenvolvedor FullStack com sistemas em produção trabalhando com **React, Next.js, TypeScript** e **Node.js**, com deploy em VPS Linux usando Docker e Nginx.
 
-Atualmente desenvolvendo soluções integradas a ERPs corporativos na **Novamix Food Service**, automatizando processos e criando painéis administrativos para uso real. Busco minha primeira vaga formal em desenvolvimento.
+Atualmente desenvolvendo soluções integradas a ERPs corporativos na **Novamix Food Service**, automatizando processos e criando painéis administrativos para uso real.
 
 ---
 
